@@ -1,0 +1,245 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13/res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/forgot_password_layout.xml #generated:10
+# view res/layout/register_email_layout.xml #generated:15
+# view res/layout/register_email_layout.xml #generated:35
+# view res/layout/register_email_layout.xml #generated:55
+# view res/layout/sign_in_layout.xml #generated:26
+# view res/layout/sign_in_layout.xml #generated:9
+# view res/layout/signin_no_password_layout.xml #generated:6
+# view res/layout/welcome_back_password_prompt_layout.xml #generated:20
+-keep class android.support.design.widget.TextInputLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:39
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/com_facebook_device_auth_dialog_fragment.xml #generated:22
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class com.facebook.CustomTabActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.facebook.FacebookActivity { <init>(...); }
+
+# view res/layout/activity_facebook.xml #generated:52
+-keep class com.facebook.login.widget.LoginButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:178
+-keep class com.firebase.ui.auth.ui.ChooseAccountActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:158
+-keep class com.firebase.ui.auth.ui.account_link.WelcomeBackIdpPrompt { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.firebase.ui.auth.ui.email.EmailHintContainerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class com.firebase.ui.auth.ui.email.RecoverPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.firebase.ui.auth.ui.email.RegisterEmailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.firebase.ui.auth.ui.email.SignInActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.firebase.ui.auth.ui.email.SignInNoPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:173
+-keep class com.firebase.ui.auth.ui.idp.IdpSignInContainerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:237
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(...); }
+
+# view AndroidManifest.xml #generated:228
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(...); }
+
+# view res/layout/activity_google.xml #generated:52
+-keep class com.google.android.gms.common.SignInButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:224
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.google.firebase.quickstart.auth.AnonymousAuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.google.firebase.quickstart.auth.ChooserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.google.firebase.quickstart.auth.CustomAuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.google.firebase.quickstart.auth.EmailPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.google.firebase.quickstart.auth.FacebookLoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.google.firebase.quickstart.auth.FirebaseUIActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.google.firebase.quickstart.auth.GoogleSignInActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.google.firebase.quickstart.auth.TwitterLoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:205
+-keep class com.twitter.sdk.android.core.identity.OAuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class com.twitter.sdk.android.core.identity.ShareEmailActivity { <init>(...); }
+
+# view res/layout/activity_twitter.xml #generated:52
+-keep class com.twitter.sdk.android.core.identity.TwitterLoginButton { <init>(...); }
+
+# view res/layout/tw__app_card.xml #generated:26
+-keep class com.twitter.sdk.android.core.internal.util.AspectRatioImageView { <init>(...); }
+
+# view res/layout/tw__composer_view.xml #generated:58
+-keep class com.twitter.sdk.android.core.internal.util.ObservableScrollView { <init>(...); }
+
+# view AndroidManifest.xml #generated:195
+-keep class com.twitter.sdk.android.tweetcomposer.ComposerActivity { <init>(...); }
+
+# view res/layout/tw__activity_composer.xml #generated:21
+-keep class com.twitter.sdk.android.tweetcomposer.ComposerView { <init>(...); }
+
+# view AndroidManifest.xml #generated:200
+-keep class com.twitter.sdk.android.tweetcomposer.TweetUploadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:221
+-keep class com.twitter.sdk.android.tweetui.GalleryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:217
+-keep class com.twitter.sdk.android.tweetui.PlayerActivity { <init>(...); }
+
+# view res/layout/tw__action_bar.xml #generated:28
+-keep class com.twitter.sdk.android.tweetui.ToggleImageButton { <init>(...); }
+
+# view res/layout/tw__action_bar.xml #generated:18
+-keep class com.twitter.sdk.android.tweetui.TweetActionBarView { <init>(...); }
+
+# view res/layout/tw__tweet.xml #generated:34
+# view res/layout/tw__tweet_compact.xml #generated:82
+-keep class com.twitter.sdk.android.tweetui.internal.MediaBadgeView { <init>(...); }
+
+# view res/layout/tw__gallery_activity.xml #generated:22
+-keep class com.twitter.sdk.android.tweetui.internal.MultiTouchImageView { <init>(...); }
+
+# view res/layout/tw__tweet.xml #generated:29
+# view res/layout/tw__tweet_compact.xml #generated:77
+-keep class com.twitter.sdk.android.tweetui.internal.TweetMediaView { <init>(...); }
+
+# view res/layout/tw__player_activity.xml #generated:32
+-keep class com.twitter.sdk.android.tweetui.internal.VideoControlView { <init>(...); }
+
+# view res/layout/tw__player_activity.xml #generated:20
+-keep class com.twitter.sdk.android.tweetui.internal.VideoView { <init>(...); }
+
+# onClick res/layout/tw__activity_share_email.xml #generated:75
+-keepclassmembers class * { *** onClickAllow(...); }
+
+# onClick res/layout/tw__activity_share_email.xml #generated:62
+-keepclassmembers class * { *** onClickNotNow(...); }
+

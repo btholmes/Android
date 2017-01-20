@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-support-compat-25.0.1_650d071233f041ec96c410b876254d7049b27601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.firebase-firebase-common-10.0.1_f57d5cc3d580108918b65fc970d559e008051354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/retrofit-1.8.0_670b0dee8d3e3b84cdcd86257870a0aa3f0b47c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79f10814ccc3cf45cd5c1d566a3f6b5bcf7c1562">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.twitter.sdk.android-twitter-2.0.0_6cc22fdb394d9759dabe3893e2fec810bda2b6ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/internal_impl-25.0.1_0709a94db14a6396ca334f9fe8e0086f5e8c20a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.firebase-firebase-auth-10.0.1_25319517684c16550236f0d7de650d820f3f01b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/gson-2.6.1_537c9aeb2e10d940ad813e9451fcc64ec27b340b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/bolts-applinks-1.4.0_a02dac702d4127220e3ebb7bec975d096aaa30b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b57821de6e2cbd036be860fea35812a413a3a9d">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.twitter.sdk.android-tweet-composer-2.0.0_5fd0af2c917869ce621a22fa93f783bea6a6768f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-appcompat-v7-25.0.1_70039f013bd88e1068edf48cb2d6a489f1ba9247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0424f06fdb2897efee7b4cf999c60e0b1bbfe50">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.twitter.sdk.android-tweet-ui-2.0.0_fe4410d7cd2b321e33897b0bde41c56ea04ee694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.android.gms-play-services-basement-10.0.1_97993f254119dff1392ac7c12a54d8effb5cb16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/bolts-tasks-1.4.0_13b5920cde892b219be14260a1db2b308c063627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.firebase-firebase-analytics-10.0.1_d57b481006705a72b706c6930449bc6ba48335bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/retrofit-2.0.2_80c0acc5519d09255dad520a47644b545b299475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ea42614d0d3d5e9f507cb2f432ae821307cd0dc">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.twitter.sdk.android-tweet-composer-1.0.3_c212e23ae57f9983b8d7f5ffcdab3072cf2c5618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1360908bc3e1751f5e2248e64aedbe4b5944b702">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.twitter.sdk.android-twitter-core-1.6.6_316754674dc3c253b065d7649a49638e3d19fa81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.13.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e25d39642cf82ff86e13390e7854ef135df232ea">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.twitter.sdk.android-twitter-1.13.1_73844e9b42c2a11105492fc9c750428ae9424eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/internal_impl-25.0.1_42eb14ffeb08c8c97a46575e3de7f53f8a13c1a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-animated-vector-drawable-25.0.1_349c5dc227f12a3425cd72f54a87b6225ba2f0ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.firebase-firebase-analytics-impl-10.0.1_82b92cb0e5615d324d067b368f32a72a25f1981e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.android.support-design-24.2.1_c122370890ddf6527a9349a08199d5c7d5add864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d903060c54d0109fc4efa404a62fac2158d6633">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.twitter.sdk.android-tweet-ui-1.10.1_4b68fc9b814ee7c77426db34a7b414f348086663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-support-v4-25.0.1_9566f25919b7db6ebb024a10bb49d2390129a421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/internal_impl-25.0.1_0ca2fde3968cc76bfec21449af4a58e90062e81f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.13/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23e3acde10f4cf52778f8dc88107fb96459f2392">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/io.fabric.sdk.android-fabric-1.3.13_506f96859b5018bb89872fa2ac4f8b2cf1e5dca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/twitter-text-1.13.0_faf7a5e34aa75348893b8fd26283c949dfe2db08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-support-fragment-25.0.1_c28b839eb98b838d568b7f1f02e954ca2b27d694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/internal_impl-25.0.1_1ba375223fa91cb70e0337d2a095f06d12c54231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.android.gms-play-services-tasks-10.0.1_f04c41a4f8d42bb8bd1a86dcc502f8afb2819c2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.android.gms-play-services-base-10.0.1_54f4bbfc812b96774ced316bcf1ca3da4b8b1427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/picasso-2.5.2_85cf4b0615c5358c144217b6b178d3b1f974e176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="933ee15f1696c3583a97e6f6d6662a97f0d2019d">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.twitter.sdk.android-twitter-core-2.0.0_fd86322beb94d0a48d333ff15cc3a23684c21094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.android.support-customtabs-23.4.0_fb5ddcc491dbb32617d1e31ed642e0a8b0ff1d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-support-media-compat-25.0.1_9faf0a3ec383440bc70c818fad79d7fcfd75f505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b81327f3afb5c0c84ee6f50df6f750737a44653">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.digits.sdk.android-digits-1.10.3_ad7f90fa41b49df75a6802f7df00c4ef26cfea94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-support-vector-drawable-25.0.1_fa98d3f655fe72a133298515348f5b4cb0b1eafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/internal_impl-25.0.1_5791ed07689cb387d83c5c63a6e7df40ba70e534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/support-annotations-25.0.1_257adbf6b7a57ae66c62682c46892da3c43ec1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.android.support-recyclerview-v7-24.2.1_e83ae431fbaf3f1225e8c35f07e1981aafc3be11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/gson-2.3_a4e17cf7519db9cdffd0bd7bc9c4ca38f39b45eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-support-core-ui-25.0.1_6c363e9b206194ebc982c6030ed281bf3b7007d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.android.support-cardview-v7-23.4.0_163c5d1367496b6f49e3cf559c449e3a3cee3760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.android.support-support-core-utils-25.0.1_86fe19b158c9042dd4349b3cc7b3506043df5b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/io.fabric.sdk.android-fabric-1.3.10_9459efdc87b02b577d9445608361ca81b73cc74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/converter-gson-2.0.2_01346a3f4a81cf575824160ccc55349a588af67d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.android.gms-play-services-auth-10.0.1_623e8376fc18dba1b8e488d37049e50e48961311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/okio-1.6.0_bd9bcad84bd70a0ba282611a81da714e697d7515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.firebase-firebase-iid-10.0.1_0fde7d77b22b386d995eded738e5e15ff4dc6f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.facebook.android-facebook-android-sdk-4.14.1_a8b7e6abea13286c007fb849d2723594775f5775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f89f608187d3d0c83ce69142ae0d223d40c06d">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/com.firebaseui-firebase-ui-auth-1.0.0_b59bb418f120eb65152277d3912fee5ae96bc244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkIcs/debug/com.google.android.gms-play-services-auth-base-10.0.1_e306d4c84858d1f1c9bf1beb975c5f3d5030a4e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/pre-dexed/minSdkJellybean/debug/okhttp-3.2.0_947dfa702354e94d086e11e138cc0022928d7f2d.jar" />
+    </item>
+
+</items>

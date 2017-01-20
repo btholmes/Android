@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

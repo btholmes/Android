@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-hdpi/ic_person_white.png",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/src/main/res/drawable-hdpi/ic_person_white.png"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-hdpi/firebase_lockup_400.png",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/src/main/res/drawable-hdpi/firebase_lockup_400.png"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-hdpi/tw__composer_logo_white.png",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/res/drawable-hdpi/tw__composer_logo_white.png"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-hdpi/tw__composer_close.png",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/res/drawable-hdpi/tw__composer_close.png"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable-hdpi/tw__composer_logo_blue.png",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/res/drawable-hdpi/tw__composer_logo_blue.png"
+    }
+]

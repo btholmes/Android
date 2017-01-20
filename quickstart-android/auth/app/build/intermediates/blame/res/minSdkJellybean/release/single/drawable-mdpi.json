@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkJellybean/release/drawable-mdpi/firebase_lockup_400.png",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/src/main/res/drawable-mdpi/firebase_lockup_400.png"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkJellybean/release/drawable-mdpi/ic_person_white.png",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/src/main/res/drawable-mdpi/ic_person_white.png"
+    }
+]

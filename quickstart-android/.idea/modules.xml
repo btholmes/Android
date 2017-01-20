@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admob/admob.iml" filepath="$PROJECT_DIR$/admob/admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admob/app/admob-app.iml" filepath="$PROJECT_DIR$/admob/app/admob-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analytics/analytics.iml" filepath="$PROJECT_DIR$/analytics/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analytics/app/analytics-app.iml" filepath="$PROJECT_DIR$/analytics/app/analytics-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-indexing/app-indexing.iml" filepath="$PROJECT_DIR$/app-indexing/app-indexing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-indexing/app/app-indexing-app.iml" filepath="$PROJECT_DIR$/app-indexing/app/app-indexing-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth/auth.iml" filepath="$PROJECT_DIR$/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth/app/auth-app.iml" filepath="$PROJECT_DIR$/auth/app/auth-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/app/config-app.iml" filepath="$PROJECT_DIR$/config/app/config-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crash/crash.iml" filepath="$PROJECT_DIR$/crash/crash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crash/app/crash-app.iml" filepath="$PROJECT_DIR$/crash/app/crash-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database/database.iml" filepath="$PROJECT_DIR$/database/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database/app/database-app.iml" filepath="$PROJECT_DIR$/database/app/database-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamiclinks/dynamiclinks.iml" filepath="$PROJECT_DIR$/dynamiclinks/dynamiclinks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamiclinks/app/dynamiclinks-app.iml" filepath="$PROJECT_DIR$/dynamiclinks/app/dynamiclinks-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/invites/invites.iml" filepath="$PROJECT_DIR$/invites/invites.iml" />
+      <module fileurl="file://$PROJECT_DIR$/invites/app/invites-app.iml" filepath="$PROJECT_DIR$/invites/app/invites-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging/messaging.iml" filepath="$PROJECT_DIR$/messaging/messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging/app/messaging-app.iml" filepath="$PROJECT_DIR$/messaging/app/messaging-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart-android.iml" filepath="$PROJECT_DIR$/quickstart-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/storage.iml" filepath="$PROJECT_DIR$/storage/storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/app/storage-app.iml" filepath="$PROJECT_DIR$/storage/app/storage-app.iml" />
+    </modules>
+  </component>
+</project>

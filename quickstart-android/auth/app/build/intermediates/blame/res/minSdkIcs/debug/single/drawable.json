@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__share_action.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__share_action.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__login_btn_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__player_overlay.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__player_overlay.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_pause_btn.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__video_pause_btn.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/progress_dark.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.3/res/drawable/progress_dark.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__btn_composer_tweet.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/res/drawable/tw__btn_composer_tweet.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_text_color_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__login_btn_text_color_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn_default.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.3/res/drawable/dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_disabled.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__bg_media_badge.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__bg_media_badge.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/notification_bg.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__seekbar_thumb.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.3/res/drawable/dgts__digits_btn.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__transparent.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__transparent.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_pressed_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__login_btn_pressed_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_seekbar.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__video_seekbar.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_pressed.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__login_btn_pressed.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__login_btn.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__install_button_border.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/res/drawable/tw__install_button_border.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_replay_btn.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__video_replay_btn.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/dgts__digits_btn_pressed.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.3/res/drawable/dgts__digits_btn_pressed.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__app_info_layout_border.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/res/drawable/tw__app_info_layout_border.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_default.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__login_btn_default.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__gif_badge.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__gif_badge.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__video_play_btn.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__video_play_btn.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/progress_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.3/res/drawable/progress_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__like_action.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/res/drawable/tw__like_action.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/tw__login_btn_default_light.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/res/drawable/tw__login_btn_default_light.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/res/merged/minSdkIcs/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/btholmes/Documents/github/Android/quickstart-android/auth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_check_material.xml"
+    }
+]
