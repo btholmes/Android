@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="343645def58304a557e2fc2d26af73f8ef148ec3">
+        sha1="6111f3a0861c788eccd27e4aabb2ef9291871544">
         <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a535f768f227ab1f17d4a184bf385243561f4c4b/classes.dex" />
     </item>
     <item
@@ -160,7 +160,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="9cfefc32a55234f81a1dbb75a06288efb4df6670">
+        sha1="e5fd34a8e3d2c7f19eee1270d1d01ee242f688d9">
         <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c2cd1ca0edfeda529d045de2f2e1b093ff581d0/classes.dex" />
     </item>
     <item
