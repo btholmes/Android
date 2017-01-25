@@ -6,11 +6,10 @@
 
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="FLogin"
+        android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <!--<meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>-->
-        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="241188146335810"/>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
         <activity android:name=".LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,10 +23,6 @@
             "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
         android:theme="@android:style/Theme.Translucent.NoTitleBar"
         android:label="@string/app_name" />
-        <!--<activity android:name="com.facebook.FacebookActivity"-->
-            <!--android:configChanges=-->
-                <!--"keyboard|keyboardHidden|screenLayout|screenSize|orientation"-->
-            <!--android:label="FLogin" />-->
 
     <provider android:authorities="com.facebook.app.FacebookContentProvider148851038810437"
         android:name="com.facebook.FacebookContentProvider"

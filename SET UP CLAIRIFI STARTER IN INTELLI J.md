@@ -18,6 +18,4 @@ Then you just need to provide clarifai_id and clarifai_secret string resources
  * SECRET = "qAatMNwB007GdHRk9U04ntncmwe6zWnzfgK3tQcI"
 
 
-## Facebook Login Tutorial Link 
-	https://www.androidtutorialpoint.com/material-design/android-facebook-login-tutorial/
 
