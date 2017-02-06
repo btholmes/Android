@@ -2,301 +2,283 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_5ed8be9c063a762c736c5affd6931bf1e9afe400/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1909a2fab835461e7ab757a3291dc3f23856d299/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-iconics-core-2.8.0_1b3b61ee02b15046b579675b49d0b72624d725f9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_eb8436ba72b267a9377e39056af77d6515cdedc7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_49ab58adf4e23c0bbdee79847bdb8bfd132494ce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.10/2ac360e8a47601a8dfd044e646f05b99d151f2e0/rxjava-1.1.10.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2ac360e8a47601a8dfd044e646f05b99d151f2e0">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.10_8bdf0bf883e0a4dbadbf002746fff18ebc718c35/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6ffb1cfbfc205f32420479eb71fa2a133dce52c0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_44ae65d3334af7bed4761ba7e1583e625b037e04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1bee5eff0259bd8beef5557e6b5c1b947f870482/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6111f3a0861c788eccd27e4aabb2ef9291871544">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a535f768f227ab1f17d4a184bf385243561f4c4b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c19f697ceec3c1c2f7b0c36b8201719341278c65/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8334c2b88d66e38f28cf5bf04836325eb6da1b6b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_3b9c700f4f27127647dc0b606d19742fa7fde5f7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_61735cdfde4e2ce0c469ef73ed808a67ce7b02e7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_f848ae0df77e5915c1d8cd0acfaedaa382fb78a9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ea16ce44f30c93b1d2b7e8894e89e01c92140f00/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_ade08978a724a272388b2825ccaf233a6bcc1d40/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e5fd34a8e3d2c7f19eee1270d1d01ee242f688d9">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c2cd1ca0edfeda529d045de2f2e1b093ff581d0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialdrawer-5.6.0_c0368cf768940768f7ace97e0eb1ae75d31c171f/classes.dex" />
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.mikepenz-materialdrawer-5.6.0_c0368cf768940768f7ace97e0eb1ae75d31c171f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_33ef11be783ca6206b059dea120287e4b04ca487/classes.dex" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ade08978a724a272388b2825ccaf233a6bcc1d40.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_61735cdfde4e2ce0c469ef73ed808a67ce7b02e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.clarifai.clarifai-api2/core/2.0.2/2f2018aa773ec96511ed1570e9604c81eaca9076/core-2.0.2.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="2f2018aa773ec96511ed1570e9604c81eaca9076">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-2.0.2_458f54f33180b1f1e539717fe59d9151e2cc1ab8/classes.dex" />
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/core-2.0.2_458f54f33180b1f1e539717fe59d9151e2cc1ab8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6a11388058c8c82cbdb5e8646f1c37adfc7755d6">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.3.0_3a6afbf2f8476a9f34747a51f73906e06a750686/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_5ef9ce430135ab2a32010af0ff2cbb014e8d1e29/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eedbf6175271ecc64d3fbeae722c4d28c16d8939/classes.dex" />
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eedbf6175271ecc64d3fbeae722c4d28c16d8939.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-materialize-1.0.0_87cd346e744f9a26c4c71523a1c6808fa749f7f2/classes.dex" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/gson-2.7_33ef11be783ca6206b059dea120287e4b04ca487.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dee8700d874fe481b35e8621d4fe172bdf62aab4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_73ebf9e975b7aa991bfdffeafd94a39bc58600b0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_6579a4b54919a83754fac024ea5cfb436bb414fe/classes.dex" />
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/okio-1.9.0_6579a4b54919a83754fac024ea5cfb436bb414fe.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_682374717e0ab8077449c9f410751fd93e8135e5/classes.dex" />
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_5ef9ce430135ab2a32010af0ff2cbb014e8d1e29.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a11388058c8c82cbdb5e8646f1c37adfc7755d6">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.jakewharton.timber-timber-4.3.0_3a6afbf2f8476a9f34747a51f73906e06a750686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.mikepenz-materialize-1.0.0_87cd346e744f9a26c4c71523a1c6808fa749f7f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_44ae65d3334af7bed4761ba7e1583e625b037e04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_73ebf9e975b7aa991bfdffeafd94a39bc58600b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/1.8.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikepenz-fastadapter-1.8.0_5b679c30dbbf9ecd57ed9ea24cc8d6de6bff71d3/classes.dex" />
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.mikepenz-fastadapter-1.8.0_5b679c30dbbf9ecd57ed9ea24cc8d6de6bff71d3.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_682374717e0ab8077449c9f410751fd93e8135e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_4da617f4efaa328565ca92def4a8ba3e852140f9/classes.dex" />
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_4da617f4efaa328565ca92def4a8ba3e852140f9.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.tbruyelle.rxpermissions/rxpermissions/0.7.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="15c5797fa4f75484420119aa4dc509b2047f396a">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tbruyelle.rxpermissions-rxpermissions-0.7.1_1c17e8972a8e43f88d6c102659328988008f706f/classes.dex" />
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.tbruyelle.rxpermissions-rxpermissions-0.7.1_1c17e8972a8e43f88d6c102659328988008f706f.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_66033994c561af5eb685c9e9e75d0702863bcb45/classes.dex" />
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_66033994c561af5eb685c9e9e75d0702863bcb45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_ea16ce44f30c93b1d2b7e8894e89e01c92140f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f848ae0df77e5915c1d8cd0acfaedaa382fb78a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_dee8700d874fe481b35e8621d4fe172bdf62aab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1909a2fab835461e7ab757a3291dc3f23856d299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.mikepenz-iconics-core-2.8.0_1b3b61ee02b15046b579675b49d0b72624d725f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_49ab58adf4e23c0bbdee79847bdb8bfd132494ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_eb8436ba72b267a9377e39056af77d6515cdedc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.10/2ac360e8a47601a8dfd044e646f05b99d151f2e0/rxjava-1.1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ac360e8a47601a8dfd044e646f05b99d151f2e0">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/rxjava-1.1.10_8bdf0bf883e0a4dbadbf002746fff18ebc718c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1bee5eff0259bd8beef5557e6b5c1b947f870482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6ffb1cfbfc205f32420479eb71fa2a133dce52c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_8334c2b88d66e38f28cf5bf04836325eb6da1b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c19f697ceec3c1c2f7b0c36b8201719341278c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_5ed8be9c063a762c736c5affd6931bf1e9afe400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_3b9c700f4f27127647dc0b606d19742fa7fde5f7.jar" />
     </item>
 
 </items>

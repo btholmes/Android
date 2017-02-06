@@ -18,7 +18,7 @@
 ## Main Activity Class is also
  * The field should be your main activity (associated with MAIN and LAUNCHER)
  
- ## Generate an Android Key Hash
+## Generate an Android Key Hash
  	Navigate in the terminal to the directory where your Android debug.keystore is stored. (library/android/avd) 
 		cd ~/.android/
 		Note: cmd shift G to open finder
@@ -27,3 +27,9 @@
 
 	keytool -exportcert -alias androiddebugkey -keystore debug.keystore | openssl sha1 -binary | openssl base64
 	When it prompts you for a password, type android and hit Enter
+	
+## Gradle Directory is located 
+	/Applications/Android Studio.app/Contents/gradle/gradle-2.14.1
+
+## AndroidProject.GePluginGeneration() error
+ * Disable Instant Run 

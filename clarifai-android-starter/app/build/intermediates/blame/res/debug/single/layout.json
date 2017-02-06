@@ -24,12 +24,12 @@
         "source": "/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/res/merged/debug/layout/item_concept.xml",
-        "source": "/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/src/main/res/layout/item_concept.xml"
-    },
-    {
         "merged": "/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/res/merged/debug/layout/material_drawer_item_switch.xml",
         "source": "/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_switch.xml"
+    },
+    {
+        "merged": "/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/res/merged/debug/layout/item_concept.xml",
+        "source": "/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/src/main/res/layout/item_concept.xml"
     },
     {
         "merged": "/Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",

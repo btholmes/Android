@@ -80,6 +80,7 @@ MERGED from [com.android.support:design:24.2.1] /Users/btholmes/Documents/github
 MERGED from [com.mikepenz:materialize:1.0.0] /Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/AndroidManifest.xml:8:5-10:41
 MERGED from [com.mikepenz:iconics-core:2.8.0] /Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.0/AndroidManifest.xml:8:5-10:41
 MERGED from [com.mikepenz:fastadapter:1.8.0] /Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.mikepenz/fastadapter/1.8.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
 MERGED from [com.jakewharton:butterknife:8.4.0] /Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/AndroidManifest.xml:5:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/btholmes/Documents/github/Android/clarifai-android-starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
