@@ -1,0 +1,20 @@
+<html>
+	<script>
+		var connection = new WebSocket('ws://localhost:1234/service');
+
+		// Log errors
+		connection.onerror = function (error) {
+			console.log('WebSocket Error ' + error);
+		};
+
+		// Log messages from the server
+		connection.onmessage = function (e) {
+			console.log('Server: ' + e.data);
+		};
+
+		connection.onopen = function (e) {
+			connection.send('{"searchString":"cat","results":[{"url":"http://www.cat.com","value":23},{"url":"https://en.wikipedia.org/wiki/Cat","value":19},{"url":"http://cats.about.com","value":-7},{"url":"http://money.cnn.com/quote/quote.html?symb=CAT","value":3},{"url":"http://www.dictionary.com/browse/cat","value":8},{"url":"http://www.merriam-webster.com/dictionary/cat","value":42},{"url":"http://www.thefreedictionary.com/CAT","value":3},{"url":"http://caterpillar.com","value":3},{"url":"https://en.wikipedia.org/wiki/Felidae","value":4},{"url":"http://acronyms.thefreedictionary.com/CAT","value":0},{"url":"http://www.catfootwear.com/US/en","value":3},{"url":"http://www.google.com/finance?cid=5736","value":3},{"url":"http://animals.nationalgeographic.com/animals/mammals/domestic-cat","value":3},{"url":"https://www.pagalguy.com/mba/entrance-exams/cat-2016","value":0},{"url":"http://www.youtube.com/watch?v=tntOCGkgt98","value":3}]}');
+		}
+
+	</script>
+</html>

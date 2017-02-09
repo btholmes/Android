@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Search</title>
+    <!-- General UI-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!-- More compact JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- General Bootstrap UI interaction-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- Voting DB req-->
+    <script src="https://www.gstatic.com/firebasejs/3.5.2/firebase.js"></script>
+    <style>
+        .vote {
+            display: inline-block;
+            overflow: hidden;
+            width: 40px;
+            height: 25px;
+            cursor: pointer;
+            background: url('http://i.stack.imgur.com/iqN2k.png');
+            background-position: 0 -25px;
+        }
+
+        .dvote {
+            display: inline-block;
+            overflow: hidden;
+            width: 40px;
+            height: 25px;
+            cursor: pointer;
+            background: url('http://i.stack.imgur.com/iqN2k.png');
+            background-position: 0 -25px;
+            -ms-transform: rotate(180deg); /* IE 9 */
+            -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+            transform: rotate(180deg);
+        }
+        .keyword {
+            display: block;
+            margin-top: 2px;
+            margin-bottom: 2px;
+        }
+        .keyword-button{
+            display: inline-block;
+            margin-right: 10px;
+        }
+    </style>
+    <script type="text/javascript">
+        var results = [];
+        var firebaseConfig = {
+            authDomain: "project-3-ff314.firebaseapp.com",
+            databaseURL: "https://project-3-ff314.firebaseio.com",
+            storageBucket: "project-3-ff314.appspot.com",
+            messagingSenderId: "387362019586"
+        };
+        firebase.initializeApp(firebaseConfig);
+        var database = firebase.database();
+
+        $(document).ready(function () {
+            // Enter for searching
+            $('#search-box').keydown(function (event) {
+                var keypressed = event.keyCode || event.which;
+                if (keypressed == 13) {
+                    search($(this).val()).then(function (response) {
+                        order(response);
+                    });
+                }
+            });
+
+        }); // End of document.ready
+
+        // Handle votes
+        function bindHandlers(item) {
+            item.children(".vote").on('click', function () {
+                var vote = item.children(".count").html();
+                var url = item.children("a").attr("href");
+                item.children(".count").html(++vote);
+                updateDB(url, vote);
+            });
+
+            item.children('.dvote').on('click', function () {
+                var vote = item.children(".count").html();
+                var url = item.children("a").attr("href");
+                item.children(".count").html(--vote);
+                updateDB(url, vote);
+            });
+
+        }
+        function bindDatabaseUpdate(index, element, item) {
+            var url = element.displayUrl;
+            database.ref('websites/' + websiteId(url) + "/count").on('value', function (snapshot) {
+                var val = snapshot.val();
+                if (val) {
+                    item.children(".count").html(val);
+                }
+                results.push(item);
+            });
+        }
+
+        function websiteId(url) {
+            return url.replace(/\.|\#|\$\"/g, "");
+        }
+
+        function updateDB(url, count) {
+            database.ref('websites/' + websiteId(url)).set({count: count});
+        }
+        function search(term) {
+            return new Promise(function (resolve, reject) {
+                results = [];
+                var subscription_key = "3676119700b04cd0b12d98dc57dc5aff";
+                var params = {
+                    // Request parameters
+                    "q": term,
+                    "count": "16",
+                    "offset": "0",
+                    "mkt": "en-us",
+                    "safesearch": "Moderate",
+                };
+                $.ajax({
+                    url: "https://api.cognitive.microsoft.com/bing/v5.0/search?" + $.param(params),
+                    beforeSend: function (xhrObj) {
+                        // Request headers
+                        xhrObj.setRequestHeader("Ocp-Apim-Subscription-Key", subscription_key);
+                    },
+                    type: "GET",
+                    // Request body
+                    data: "{body}",
+                })
+                        .done(function (data) {
+                            pages = data.webPages.value;
+                            $.each(pages, function (index, element) {
+                                if (!element.displayUrl.includes("http")) {
+                                    element.displayUrl = "http://" + element.displayUrl;
+                                }
+                                var item = $('<div>', {
+                                            html: '<a target="_blank" href="' + element.displayUrl + '" >' + element.name + '</a>' +
+                                            '<span class="dvote badge"> </span><span class="badge count">0</span><span class="vote badge"> </span>',
+                                            class: "list-group-item"
+                                        }
+                                );
+                                bindHandlers(item);
+                                bindDatabaseUpdate(index, element, item);
+                            });
+                            resolve(results);
+                        })
+                        .fail(function () {
+                            alert("Search Error");
+                            reject(Error("Could not search. API key still valid?"));
+                        });
+            });
+        }
+
+        function order(results) {
+            if (results.length >= 15) {
+                $('#search-results').html('');
+                getKeywords(results);
+                // Sort
+                results.sort(function (a, b) {
+                    return b.children(".count").html() - a.children(".count").html()
+                });
+                $.each(results, function (index, item) {
+                    $('#search-results').append(item);
+                });
+                return results;
+            }
+            else {
+                setTimeout(function () {
+                    order(results);
+                }, 200);
+            }
+        }
+        function addKeyword(keyword){
+            $('#search-box').val($('#search-box').val() + " " + keyword);
+        };
+        function addKeywordButton(selector, keyword, addKeyword){
+            $(selector).append('<div class="keyword"><button type="button" onclick="addKeyword(' + "'" + addKeyword + "'" +
+                               ')" class="btn btn-default keyword-button" onclick="">+</button>' + keyword + '</div>');
+        }
+        function getKeywords(results) {
+            var searchString = $("#search-box").val();
+            var resultsToSend = [];
+            $.each(results, function (index, item) {
+                resultsToSend.push({
+                    url: item.children("a").attr("href"),
+                    value: parseInt(item.children(".count").html())
+                });
+            });
+            var request = {searchString: searchString, results: resultsToSend};
+            console.log(JSON.stringify(request));
+            var connection = new WebSocket('ws://localhost:1234/service');
+            connection.onerror = function (error) {
+                console.log('WebSocket Error ');
+                console.log(error);
+                console.log('No keywords will be suggested');
+            };
+            // Log messages from the server
+            connection.onmessage = function (e) {
+                $("#bad").html('');
+                $("#good").html('');
+                console.log(e.data);
+                $.each(JSON.parse(e.data).searchTerms, function(index, item){
+                    if(item.value < 0){
+                        addKeywordButton("#bad", item.term, "-"+item.term);
+                    }
+                    else{
+                        addKeywordButton("#good", item.term, item.term);
+                    }
+                });
+            };
+            connection.onopen = function (e) {
+                connection.send(JSON.stringify(request));
+            };
+
+        }
+    </script>
+</head>
+<body>
+<div class="container">
+    <!-- Torrent Link Panel -->
+    <div id="selectbox" style="margin-top:50px;" class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <div class="panel-title text-center">Search-Suggest</div>
+            </div>
+            <div style="padding-top:30px" class="panel-body">
+                <div id="keywords" style="margin-bottom: 25px;" class="row">
+                    <div class="col-md-6">
+                        <div>Suggested keywords:</div>
+                        <div id="good" style="border: 5px solid green;">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div>Suggested keywords to ignore:</div>
+                        <div id="bad" style="border: 5px solid red;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel-footer">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div style="margin-bottom: 25px" class="input-group">
+                            <span class="input-group-addon"><i class="glyphicon glyphicon-globe"></i></span>
+                            <input type="text" placeholder="Asta la vista, baby" id="search-box">
+                        </div>
+                    </div>
+                    <div class="col-md-3"></div>
+                    <button type="button" class="btn btn-default"
+                            onclick="search($('#search-box').val()).then(order(results));">Search
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="list-group" id="search-results" style="text-align: center;">
+</div>
+</body>
+</html>

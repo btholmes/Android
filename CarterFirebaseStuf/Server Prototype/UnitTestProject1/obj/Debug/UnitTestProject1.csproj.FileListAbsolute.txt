@@ -1,0 +1,5 @@
+C:\Users\dorna\Documents\GitHub\search-suggest\Server Prototype\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\dorna\Documents\GitHub\search-suggest\Server Prototype\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\dorna\Documents\GitHub\search-suggest\Server Prototype\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dorna\Documents\GitHub\search-suggest\Server Prototype\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\dorna\Documents\GitHub\search-suggest\Server Prototype\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
