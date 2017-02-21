@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="me.cchiang.lookforthings.gameRoomActivity">
+
+    <Button
+        android:text="Go!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pictureBtn"
+        android:enabled="false"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="9dp"
+        style="@style/Widget.AppCompat.Button.Colored" />
+
+    <Button
+        android:text="Generate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:id="@+id/startBtn"
+        android:enabled="true"
+        android:layout_above="@+id/pictureBtn"
+        android:layout_centerHorizontal="true"
+        style="@style/Widget.AppCompat.Button.Colored" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="17dp"
+        android:id="@+id/randomView"
+        android:textSize="18sp"
+        android:layout_above="@+id/startBtn"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/header"
+        android:layout_alignRight="@+id/header"
+        android:layout_below="@+id/header"
+        android:paddingTop="40dp"
+        android:paddingLeft="40dp"
+        app:srcCompat="@drawable/logo"
+        android:id="@+id/imageView7"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="61dp" />
+
+    <CheckBox
+        android:text="3 WORDS"
+        android:enabled="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/box3"
+        android:layout_marginStart="11dp"
+        android:layout_below="@+id/imageView7"
+        android:layout_toEndOf="@+id/startBtn" />
+
+    <CheckBox
+        android:text="1 WORD"
+        android:enabled="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/box1"
+        android:layout_below="@+id/imageView7"
+        android:layout_toStartOf="@+id/pictureBtn" />
+
+    <TextView
+        android:text="Look For Things"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="61dp"
+        android:id="@+id/header"
+        android:textSize="40sp"
+        android:fontFamily="casual"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:fabSize="mini"
+        app:srcCompat="@drawable/logout"
+        android:id="@+id/logOutBtn"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="between_buttons">24dp</dimen>
+
+
+
+    <!--FIREBASE DIMEN-->
+
+    <dimen name="logo_w_h">100dp</dimen>
+
+    <!--END FIREBASE DIMENS-->
+
+
+</resources>

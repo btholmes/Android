@@ -1,0 +1,79 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "21.0.1"
+    defaultConfig {
+        applicationId "me.cchiang.lookforthings"
+        minSdkVersion 21
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    //    For multidex
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+//    packagingOptions {
+//        exclude 'META-INF/LICENSE'
+//        exclude 'META-INF/LICENSE-FIREBASE.txt'
+//        exclude 'META-INF/NOTICE'
+//    }
+    lintOptions {
+        abortOnError false
+    }
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.android.support:design:25.0.1'
+
+
+    compile 'com.android.support:design:25.0.1'
+    compile 'com.clarifai.clarifai-api2:core:2.1.0'
+//    compile 'com.google.android.gms:play-services:9.8.0'
+//    compile 'com.google.android.gms:play-services:9.2.0'
+
+
+    //    For volley
+    compile 'com.android.volley:volley:1.0.0'
+
+//    Multidex dependency
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.4'
+
+//    Android compile service
+    compile 'net.gotev:uploadservice:2.1'
+
+//    Firebase
+    compile 'com.google.firebase:firebase-auth:10.0.1'
+//    compile 'com.google.firebase:firebase-core:10.0.1'
+//    compile 'com.firebase:firebase-client-android:2.5.0'
+
+    //FIREBASE LOGIN with GOOGLE AND STUFF
+    apply plugin: 'com.google.gms.google-services'
+//    THIS is for google log in
+//    compile 'com.google.android.gms:play-services-auth:9.0.2'
+    compile 'com.google.android.gms:play-services-auth:10.0.1'
+//END FIREBASE
+
+//    FACEBOOK stuff
+    compile 'com.facebook.android:facebook-android-sdk:4.14.0'
+//    compile 'com.firebase:firebase-client-android:2.5.2+'
+//    compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+
+
+    testCompile 'junit:junit:4.12'
+}

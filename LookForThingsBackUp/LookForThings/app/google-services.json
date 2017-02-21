@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "54201214894",
+    "firebase_url": "https://look-for-things.firebaseio.com",
+    "project_id": "look-for-things",
+    "storage_bucket": "look-for-things.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54201214894:android:c0e825cc7115a96b",
+        "android_client_info": {
+          "package_name": "me.cchiang.lookforthings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54201214894-qiui12dlsauvjr3qt01qlf8h40304fec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.cchiang.lookforthings",
+            "certificate_hash": "81b88b4b3f7a9ec588201f5d635cfbdd7fd77ddc"
+          }
+        },
+        {
+          "client_id": "54201214894-fr1p1ti3s59ai5pvjuq0o2el26m4suos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMzhrc-Cm7NwVpyQumoqhAphOaKgze_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54201214894-fr1p1ti3s59ai5pvjuq0o2el26m4suos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
